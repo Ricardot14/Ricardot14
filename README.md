@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ricardo 👋
 
-<!--
-**Ricardot14/Ricardot14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer who enjoys building tools, tinkering with hardware, and exploring AI.
 
-Here are some ideas to get you started:
+### What I'm working on
+- macOS AI workspace tools
+- Hardware upgrades and Linux setups on older Macs
+- Practical automation and local-first apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+- 🌐 [Personal site](https://ricardot14.github.io/)
+- 💻 [GitHub](https://github.com/Ricardot14)
+
+### Fun fact
+Account created exactly 8 years ago today (2018-11-25).
+
+---
+
+*This README is shown on my GitHub profile.*
