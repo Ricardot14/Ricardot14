@@ -1,19 +1,36 @@
+<div align="center">
+
 # Hi, I'm Ricardo 👋
 
-Developer who enjoys building tools, tinkering with hardware, and exploring AI.
+**Developer & Builder**  
+I enjoy creating tools, experimenting with hardware, and exploring AI.
 
-### What I'm working on
-- macOS AI workspace tools
-- Hardware upgrades and Linux setups on older Macs
-- Practical automation and local-first apps
+[![Website](https://img.shields.io/badge/Website-ricardot14.github.io-38bdf8?style=for-the-badge)](https://ricardot14.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ricardot14-181717?style=for-the-badge&logo=github)](https://github.com/Ricardot14)
 
-### Connect
-- 🌐 [Personal site](https://ricardot14.github.io/)
-- 💻 [GitHub](https://github.com/Ricardot14)
-
-### Fun fact
-Account created exactly 8 years ago today (2018-11-25).
+</div>
 
 ---
 
-*This README is shown on my GitHub profile.*
+### 🚀 What I'm working on
+- **AI workspaces** — macOS desktop tools for agentic AI conversations and tasks
+- **Hardware & Linux** — upgrades and setups on older Macs (iMacs, MacBook Pros)
+- **Local-first apps** — practical tools for everyday workflows (listings, learning, automation)
+
+### 💻 Tech & interests
+- **Languages**: Python, JavaScript / TypeScript, Shell
+- **Areas**: Desktop apps, local AI tooling, hardware tinkering, GitHub Pages
+- **Style**: Local-first, practical, well-documented prototypes
+
+### 🔗 Links
+- 🌐 [Personal site](https://ricardot14.github.io/)
+- 💻 [All repositories](https://github.com/Ricardot14?tab=repositories)
+
+### 💡 Fun fact
+This GitHub account was created on **25 November 2018** — exactly 8 years ago.
+
+---
+
+<div align="center">
+<sub>Profile README — feel free to reach out via GitHub issues or discussions on my public repos.</sub>
+</div>
